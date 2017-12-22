@@ -11,7 +11,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 <meta name="theme-color" content="#222">
-
+<script>
+    (function(){
+        if(''){
+            if (prompt('请输入文章密码') !== ''){
+                alert('密码错误！');
+                history.back();
+            }
+        }
+    })();
+</script>
 
 
 
@@ -427,13 +436,13 @@
                 <span class="links-of-author-item">
                   <a href="https://github.com/chenjianlei" target="_blank" title="GitHub">
                     
-                      <i class="fa fa-fw fa-globe"></i>GitHub</a>
+                      <i class="fa fa-fw fa-github"></i>GitHub</a>
                 </span>
               
                 <span class="links-of-author-item">
                   <a href="https://weibo.com/u/1792945085" target="_blank" title="陈陈陈建蕾">
                     
-                      <i class="fa fa-fw fa-globe"></i>陈陈陈建蕾</a>
+                      <i class="fa fa-fw fa-weibo"></i>陈陈陈建蕾</a>
                 </span>
               
             
@@ -472,7 +481,7 @@
 
   
 </div>
-
+<!--
 
   <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
 
@@ -486,6 +495,7 @@
 
 
 
+-->
 
         
 
