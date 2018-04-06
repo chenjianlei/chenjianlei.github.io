@@ -97,7 +97,7 @@
 <meta property="og:site_name" content="Ferry House (摆渡屋)">
 <meta property="og:description" content="需求：最近在视频播放中，遇到了播放器来回切换调试的问题，那么接下来，会介绍一下怎么做才会使代码更加适用于业务且改动较小的方案。 场景一 只有腾讯播放SDK方案一直接在ViewController初始化TencentSDK，并实现对应的播放、暂停、停止、重置等功能。  1234567891011121314151617181920- (void)viewDidLoad &amp;#123;    [supe">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-04-06T03:33:43.479Z">
+<meta property="og:updated_time" content="2018-04-06T14:21:30.932Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="策略模式在播放器调试中的运用">
 <meta name="twitter:description" content="需求：最近在视频播放中，遇到了播放器来回切换调试的问题，那么接下来，会介绍一下怎么做才会使代码更加适用于业务且改动较小的方案。 场景一 只有腾讯播放SDK方案一直接在ViewController初始化TencentSDK，并实现对应的播放、暂停、停止、重置等功能。  1234567891011121314151617181920- (void)viewDidLoad &amp;#123;    [supe">
@@ -390,7 +390,7 @@
 <p>相比较之前的中间层方案，协议的方法更直接明了，从<code>PlayerFactory</code>类中可以看出，只有在生产<code>player</code>的时候用到了<code>if</code> <code>else</code>判断，其它只要各自遵守协议即可，代码上更简单流程，出错机率大大降低。<code>ViewController</code>业务层的代码也保持了不变的原则。如果需要删除哪个播放器，只要对应删除<code>SDK</code>和<code>Object</code>类即可，不用像在中间层一样在代码中删除，出错机率也大大降低。</p>
 <p>如果在使用协议方案的同时再加一层中间层会怎样？</p>
 <p>可以把协议比作一套算法，上层业务直接与中间层关联，在中间层可以去替换不同协议，就做到了算法上的改变，这种方案使程序结构更加严谨，替换方案更多，维护更加方便简洁。</p>
-<p>项目<a href="https://github.com/chenjianlei/StrategyDemo.git" target="_blank" rel="noopener">demo</a></p>
+<p>项目 <a href="https://github.com/chenjianlei/StrategyDemo.git" target="_blank" rel="noopener">demo</a><br>我的博客 <a href="https://chenjianlei.github.io/" target="_blank" rel="noopener">摆渡屋</a></p>
 
       
     </div>
@@ -425,8 +425,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2017/12/22/2017/" rel="next" title="2017">
-                <i class="fa fa-chevron-left"></i> 2017
+              <a href="/2017/12/22/博客二进宫/" rel="next" title="博客二进宫">
+                <i class="fa fa-chevron-left"></i> 博客二进宫
               </a>
             
           </div>
