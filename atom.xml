@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-10T15:40:49.679Z</updated>
+  <updated>2018-08-05T15:25:44.855Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>东极岛出行计划</title>
+    <link href="http://yoursite.com/2018/08/05/dongjidao/"/>
+    <id>http://yoursite.com/2018/08/05/dongjidao/</id>
+    <published>2018-08-05T07:31:33.387Z</published>
+    <updated>2018-08-05T15:25:44.855Z</updated>
+    
+    <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">交通方式</th><th style="text-align:center">时长</th><th style="text-align:center">费用</th></tr></thead><tbody><tr><td style="text-align:center">大巴一</td><td style="text-align:center">5-6</td><td style="text-align:center">150</td></tr><tr><td style="text-align:center">大巴二</td><td style="text-align:center">5-6</td><td style="text-align:center">150</td></tr></tbody></table><h4 id="大巴线路一"><a href="#大巴线路一" class="headerlink" title="大巴线路一"></a>大巴线路一</h4><h5 id="第一步"><a href="#第一步" class="headerlink" title="第一步"></a>第一步</h5><p>上海南浦大桥下旅游集散中心 - 沈家门半升洞码头</p><ul><li><p>过去：每天7：00-17：00，约每小时一班</p></li><li><p>返回：首班大巴5：55，末班大巴17：40，一天共有11班，基本上每间隔一小时发一班车。</p></li></ul><h5 id="第二步"><a href="#第二步" class="headerlink" title="第二步"></a>第二步</h5><p>购买沈家门到庙子湖岛的船票</p><p>刚说庙子湖岛是东极岛的中枢和中转站，所以沈家门到庙子湖的船票就很关键，旺季最好提前预定，可以在淘宝上找代订船票或民宿店主代买，非旺季的话可以自己在沈家门码头购买</p><p><code>船票</code> 能否买到船票是关键</p><h4 id="大巴线路二"><a href="#大巴线路二" class="headerlink" title="大巴线路二"></a>大巴线路二</h4><h5 id="第一步-1"><a href="#第一步-1" class="headerlink" title="第一步"></a>第一步</h5><p>上海 - 普陀客运中心站</p><h5 id="第二步-1"><a href="#第二步-1" class="headerlink" title="第二步"></a>第二步</h5><p>普陀客运中心站-沈家门港半升洞码头</p><ul><li>行程费用：约为20元</li><li>交通方式：出租车</li><li>全程时间：约10分钟</li></ul><h4 id="岛上购票方式"><a href="#岛上购票方式" class="headerlink" title="岛上购票方式"></a>岛上购票方式</h4><p>线上购票、线下取票：微信小程序搜索<code>东极海运</code></p><h5 id="船票价格"><a href="#船票价格" class="headerlink" title="船票价格"></a>船票价格</h5><ul><li>庙子湖-青浜岛：20元/人</li><li>庙子湖-东福山岛：30元/人</li></ul><h4 id="岛屿景点"><a href="#岛屿景点" class="headerlink" title="岛屿景点"></a>岛屿景点</h4><ul><li>青浜岛（海上布达拉宫）</li><li>庙子湖岛（设施比较完善，适合晚上休息居住）</li><li>东福山岛（第一缕阳光照射的岛屿）</li></ul><h4 id="游玩计划"><a href="#游玩计划" class="headerlink" title="游玩计划"></a>游玩计划</h4><h5 id="游玩"><a href="#游玩" class="headerlink" title="游玩"></a>游玩</h5><ul><li>周五到达庙子湖，当晚品尝当地海鲜美食</li><li>周六上午游逛庙子湖，下午去青浜岛，如果时间允许，晚上选择住宿到东福山岛（为了第二天的日出）</li><li>周日早上，看日出，然后游逛</li></ul><h5 id="住宿"><a href="#住宿" class="headerlink" title="住宿"></a>住宿</h5><ul><li>住宿条件根据岛上实际情况为主，也可以选择提前晚上预约，根据大家讨论情况做最后结论</li><li>吃方面，海鲜为主</li></ul><h5 id="药品"><a href="#药品" class="headerlink" title="药品"></a>药品</h5><p>李瑞负责带一些感冒，发烧，腹泻，擦伤药</p><h4 id="大致地图"><a href="#大致地图" class="headerlink" title="大致地图"></a>大致地图</h4><p><img src="/uploads/source/dongjidao.jpeg" alt="东极岛地图"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;交通方式&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;时长&lt;/th&gt;
+&lt;th style=&quot;text-align:center&quot;&gt;费用&lt;/th&gt;
+&lt;/t
+      
+    
+    </summary>
+    
+      <category term="旅游" scheme="http://yoursite.com/categories/%E6%97%85%E6%B8%B8/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Python学习之路</title>
